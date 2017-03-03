@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle js-console",
+        "command": "js-console:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "js-console",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "js-console:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

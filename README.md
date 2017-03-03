@@ -1,1 +1,0 @@
-# atom-js-console

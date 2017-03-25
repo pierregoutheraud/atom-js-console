@@ -1,6 +1,6 @@
 {
-  "name": "js-console",
-  "main": "./lib/js-console",
+  "name": "atom-js-console",
+  "main": "./lib/main",
   "version": "0.0.0",
   "description": "A short description of your package",
   "keywords": [],

@@ -1,7 +1,7 @@
 {
   "name": "atom-js-console",
   "main": "./lib/main",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A javascript console inside atom",
   "keywords": [],
   "activationCommands": {
@@ -12,6 +12,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }

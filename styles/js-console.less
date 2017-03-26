@@ -14,6 +14,9 @@
     opacity: .5;
     font-size: 12px;
   }
+  .stdout {
+    
+  }
   .output {
     color: #06D6A0;
   }
@@ -23,4 +26,33 @@
   .error {
     color: #E94F37;
   }
+}
+
+.ajc__editor {
+
+  .editor {
+    padding: 20px 5px;
+    min-height: 250px;
+  }
+
+  .ajc__editor__close {
+    cursor: pointer;
+    content: 'x';
+    display: flex;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    width: 32px;
+    height: 29px;
+    justify-content: center;
+    z-index: 100;
+    color: white;
+    background-color: rgba(233,79,55,.2);
+    font-size: 18px;
+    transition: all 300ms;
+    &:hover {
+      background-color: rgba(233,79,55,1);
+    }
+  }
+
 }

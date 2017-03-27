@@ -1,9 +1,16 @@
 {
   "name": "atom-js-console",
   "main": "./lib/main",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "A javascript console inside atom",
-  "keywords": ["console", "javascript", "js", "REPL", "Eval", "Read–Eval–Print Loop"],
+  "keywords": [
+    "console",
+    "javascript",
+    "js",
+    "REPL",
+    "Eval",
+    "Read–Eval–Print Loop"
+  ],
   "activationCommands": {
     "atom-workspace": "js-console:toggle"
   },

@@ -9,7 +9,10 @@
     "js",
     "REPL",
     "Eval",
-    "Read–Eval–Print Loop"
+    "Read–Eval–Print Loop",
+    "es2015",
+    "es6",
+    "babel"
   ],
   "activationCommands": {
     "atom-workspace": "js-console:toggle"

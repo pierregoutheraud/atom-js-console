@@ -4,6 +4,7 @@ A javascript console inside atom. It uses Babel stage-0 preset.
 
 ## Usage
 
-Use ctrl+j ctrl+s to open editor and console.
+Right click and chose "Open javascript console"<br />
+Shortcut: ctrl+j ctrl+s
 
 ![how-to-use-atom-js-console](http://i.imgur.com/5xtoxrY.gif)
